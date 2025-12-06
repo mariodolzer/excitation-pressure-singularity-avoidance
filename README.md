@@ -29,3 +29,21 @@ Please cite the corresponding Zenodo preprints (add the DOIs here once available
 **Author:**  
 Mario Dolzer  
 Independent Researcher, Klagenfurt, Austria
+
+
+## How to Cite
+
+Wenn du diese Arbeit zitieren möchtest, verwende bitte folgende DOIs:
+
+**Deutsche Version:**  
+DOI: https://doi.org/10.5281/zenodo.17841909
+
+**Englische Version:**  
+DOI: https://doi.org/10.5281/zenodo.17841589
+
+### DOI Badges
+
+[![DOI für Deutsch](https://zenodo.org/badge/DOI/10.5281/zenodo.17841909.svg)](https://doi.org/10.5281/zenodo.17841909)
+
+[![DOI für Englisch](https://zenodo.org/badge/DOI/10.5281/zenodo.17841589.svg)](https://doi.org/10.5281/zenodo.17841589)
+
